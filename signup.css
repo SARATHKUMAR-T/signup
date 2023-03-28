@@ -1,0 +1,58 @@
+body{
+    background: url("/images/desktop-wallpaper-backgrounds-for-login-page-login-page.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.form{
+    width:500px;
+    margin: 250px auto ;
+    background-color: rgba(0,0,0,.5);
+    padding: 10px 15px 30px;
+    color:white;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.form h3{
+    color:#E8871E ;
+    text-align: center;
+
+}
+.form .lab{
+    display: block;
+}
+.int input{
+    width: 100%;
+    font-size: 1.2em;
+    border: 1px solid blue;
+    box-shadow: 2px;
+    border-radius: 8px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin: 10px 5px 15px;
+
+
+}
+input:focus{
+    background-color:#BAD4AA;
+}
+.button{
+    text-align: center;
+
+}
+button{
+    font-size: 20px;
+    color:black;
+    padding: 10px 25px;
+    border-radius: 8px;
+    border-color: 1px solid skyblue;
+    box-shadow: 20px;
+
+}
+
+
+.int span{
+    font-size: 10px;
+    color: red;
+    
+    
+}
